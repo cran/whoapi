@@ -1,4 +1,4 @@
-e8c1b41eee29d111750d695d50528562 *DESCRIPTION
+dc23e8b1fb8ef8790137edf3d44a3a50 *DESCRIPTION
 93d6a24af3a68b50be2a6d107e0aebc2 *LICENSE
 72385593cfec998a0849e1082f23a63f *NAMESPACE
 d0fbe75c2335970dce67c0c99d54b680 *R/domain_info.R
@@ -6,9 +6,9 @@ d0fbe75c2335970dce67c0c99d54b680 *R/domain_info.R
 d101a18866f1dcf948e8a2dfa3bb1303 *R/utilities.R
 3bcb7f22d2919ec9a758f9947bc53b22 *R/whoapi.R
 56bb6e5446d12ac5ae20632407117d98 *README.md
-c17c761e4c3f271eda358a76ab521a66 *build/vignette.rds
+f1d2c3d9b1bc75d1c9c96dbf0d0b599d *build/vignette.rds
 a8c18ac8a2d3a736ad1e7c88e2305514 *inst/doc/Whoapi.Rmd
-3b5ee92f559ad7a2677be8d48021ddea *inst/doc/Whoapi.html
+79ba5c0f731a242cfdf9857f63b13672 *inst/doc/Whoapi.html
 de378bdd2a4d32e0a603d52c53ecc140 *man/certificate_info.Rd
 243e71d315f10ba163a7b95f48155115 *man/domain_location.Rd
 1154078ee8e21a0f206b43b5ef573204 *man/domain_metadata.Rd
@@ -21,5 +21,5 @@ a9ab1e3c0676864cd154d84528e92ce5 *man/whoapi_token.Rd
 1a955409f6c06c650b6615110f518986 *man/whois_info.Rd
 4a66e1f1233d8080ae2ddad24dbd8c68 *tests/testthat.R
 928bb27319b1ad2ee0abbae7270132dc *tests/testthat/test_info.R
-69037d9175401080fbef15f3c520a1e6 *tests/testthat/test_metadata.R
+eab54acc7634a014416c945b0b85c711 *tests/testthat/test_metadata.R
 a8c18ac8a2d3a736ad1e7c88e2305514 *vignettes/Whoapi.Rmd

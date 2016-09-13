@@ -5,7 +5,8 @@ test_that("Domain search ranking can be retrieved", {
   result <- try({domain_rank(token, "whoapi.com")}, silent = TRUE)
   if(!"try-error" %in% class(result)){
     expect_that(is.list(result), equals(TRUE))
-    expect_that(names(result), equals(c("status","pr","alexa_reach","alexa_popularity","alexa_linksin", "email", "title")))
+    expect_true(all(c("status","alexa_reach","alexa_popularity","alexa_linksin",
+                      "email", "title") %in% names(result)))
   }
 })
 
